@@ -1,0 +1,16 @@
+C:\Users\ASUS\Source\Repos\122170063_NguyenVanTu_17PFIEV3\122170063_NguyenVanTu_17PFIEV3\obj\Debug\122170063_NguyenVanTu_17PFIEV3.csprojAssemblyReference.cache
+C:\Users\ASUS\Source\Repos\122170063_NguyenVanTu_17PFIEV3\122170063_NguyenVanTu_17PFIEV3\obj\Debug\_122170063_NguyenVanTu_17PFIEV3.Addform.resources
+C:\Users\ASUS\Source\Repos\122170063_NguyenVanTu_17PFIEV3\122170063_NguyenVanTu_17PFIEV3\obj\Debug\_122170063_NguyenVanTu_17PFIEV3.Mainform.resources
+C:\Users\ASUS\Source\Repos\122170063_NguyenVanTu_17PFIEV3\122170063_NguyenVanTu_17PFIEV3\obj\Debug\_122170063_NguyenVanTu_17PFIEV3.Properties.Resources.resources
+C:\Users\ASUS\Source\Repos\122170063_NguyenVanTu_17PFIEV3\122170063_NguyenVanTu_17PFIEV3\obj\Debug\122170063_NguyenVanTu_17PFIEV3.csproj.GenerateResource.cache
+C:\Users\ASUS\Source\Repos\122170063_NguyenVanTu_17PFIEV3\122170063_NguyenVanTu_17PFIEV3\obj\Debug\122170063_NguyenVanTu_17PFIEV3.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Source\Repos\122170063_NguyenVanTu_17PFIEV3\122170063_NguyenVanTu_17PFIEV3\bin\Debug\122170063_NguyenVanTu_17PFIEV3.exe.config
+C:\Users\ASUS\Source\Repos\122170063_NguyenVanTu_17PFIEV3\122170063_NguyenVanTu_17PFIEV3\bin\Debug\122170063_NguyenVanTu_17PFIEV3.exe
+C:\Users\ASUS\Source\Repos\122170063_NguyenVanTu_17PFIEV3\122170063_NguyenVanTu_17PFIEV3\bin\Debug\122170063_NguyenVanTu_17PFIEV3.pdb
+C:\Users\ASUS\Source\Repos\122170063_NguyenVanTu_17PFIEV3\122170063_NguyenVanTu_17PFIEV3\bin\Debug\EntityFramework.dll
+C:\Users\ASUS\Source\Repos\122170063_NguyenVanTu_17PFIEV3\122170063_NguyenVanTu_17PFIEV3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ASUS\Source\Repos\122170063_NguyenVanTu_17PFIEV3\122170063_NguyenVanTu_17PFIEV3\bin\Debug\EntityFramework.xml
+C:\Users\ASUS\Source\Repos\122170063_NguyenVanTu_17PFIEV3\122170063_NguyenVanTu_17PFIEV3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ASUS\Source\Repos\122170063_NguyenVanTu_17PFIEV3\122170063_NguyenVanTu_17PFIEV3\obj\Debug\122170063_NguyenVanTu_17PFIEV3.csproj.CopyComplete
+C:\Users\ASUS\Source\Repos\122170063_NguyenVanTu_17PFIEV3\122170063_NguyenVanTu_17PFIEV3\obj\Debug\122170063_NguyenVanTu_17PFIEV3.exe
+C:\Users\ASUS\Source\Repos\122170063_NguyenVanTu_17PFIEV3\122170063_NguyenVanTu_17PFIEV3\obj\Debug\122170063_NguyenVanTu_17PFIEV3.pdb
